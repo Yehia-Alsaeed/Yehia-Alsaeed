@@ -12,20 +12,20 @@
 
 ---
 
-I'm an AI/ML engineer and Computer Science (Artificial Intelligence) graduate from **The British University in Egypt (2026)**. I build practical AI systems **end-to-end** — from LLM fine-tuning and multi-agent systems to computer vision and full-stack products — and I care about turning research techniques into things that actually run and ship.
+I'm an AI/ML engineer and Computer Science (Artificial Intelligence) graduate from **The British University in Egypt (2026)**. I build practical AI systems **end-to-end**, from LLM fine-tuning and multi-agent systems to computer vision and full-stack products, and I care about turning research techniques into things that actually run and ship.
 
-- 🔭 **Focus:** LLMs & GenAI (fine-tuning, agents), computer vision, and applied ML
-- 🌱 **Recently:** fine-tuned Llama 3.x with QLoRA, built a CrewAI multi-agent system, shipped a deployed MERN app
-- 🎯 **Open to** AI/ML Engineer and Software Engineer roles
-- 📅 **Availability:** graduated 2026 · available immediately · open to remote, hybrid (Cairo), or relocation
-- ⚡ I like projects with real metrics, clean pipelines, and reproducible results
+- **Focus:** LLMs & GenAI (fine-tuning, agents), computer vision, and applied ML
+- **Recently:** fine-tuned Llama 3.x with QLoRA, built a CrewAI multi-agent system, shipped a deployed MERN app
+- **Open to** AI/ML Engineer and Software Engineer roles
+- **Availability:** graduated 2026 · available immediately · open to remote, hybrid (Cairo), or relocation
+- I like projects with real metrics, clean pipelines, and reproducible results
 
 ---
 
 ## 💼 Experience
 
-- **Intern — Dell Technologies Summer Academy 2025** (Aug–Sep 2025 · 190 hrs) — Co-built and pitched *SkillBridge* to senior leaders; worked in Agile (daily standups, sprint planning, demos); job-shadowed Presales, Solution Architecture, and Project Management.
-- **Freelance Shopify Web Developer** (1 year) — Designed, built, and launched end-to-end Shopify stores optimized for conversion and SEO; customized themes with Liquid, HTML, CSS, and JavaScript.
+- **Intern, Dell Technologies Summer Academy 2025** (Aug-Sep 2025 · 190 hrs): Co-built and pitched a four-module AI career platform to senior leaders; worked in Agile (daily standups, sprint planning, demos); job-shadowed Presales, Solution Architecture, and Project Management.
+- **Freelance Shopify Web Developer** (1 year): Designed, built, and launched end-to-end Shopify stores optimized for conversion and SEO; customized themes with Liquid, HTML, CSS, and JavaScript.
 
 ---
 
@@ -34,13 +34,13 @@ I'm an AI/ML engineer and Computer Science (Artificial Intelligence) graduate fr
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[SkillBridge AI Interviewer](https://github.com/Yehia-Alsaeed/skillbridge-ai-interviewer)** | Multimodal AI mock-interview coach (graduation project) that scores webcam interviews on 5 traits | React · FastAPI · OpenAI · PyTorch · MediaPipe |
-| **[Llama QLoRA Education QA](https://github.com/Yehia-Alsaeed/llama-qlora-education-qa)** | Fine-tuned Llama 3.x with QLoRA for educational QA — Exact Match **0.00 → 0.66** | PyTorch · Hugging Face · PEFT/LoRA |
+| **[Llama QLoRA Education QA](https://github.com/Yehia-Alsaeed/llama-qlora-education-qa)** | Fine-tuned Llama 3.x with QLoRA for educational QA, Exact Match **0.00 to 0.66** | PyTorch · Hugging Face · PEFT/LoRA |
 | **[AI Study Planner Agents](https://github.com/Yehia-Alsaeed/ai-study-planner-agents)** | Multi-agent LLM system that generates, critiques, and optimizes study schedules | CrewAI · GPT-4o-mini · Transformers |
-| **[Oxford Pet Segmentation](https://github.com/Yehia-Alsaeed/oxford-pet-binary-segmentation)** | Benchmarked 3 segmentation architectures — best **0.93 mIoU** | PyTorch · timm |
-| **[Bank Churn Classification](https://github.com/Yehia-Alsaeed/bank-churn-imbalanced-classification)** | Imbalanced ML done right — SMOTE + ensembles, **F1 0.85 / ROC AUC 0.98** | scikit-learn · imbalanced-learn |
-| **[Prestige Motors Showroom](https://github.com/Yehia-Alsaeed/prestige-motors-showroom)** | Full-stack MERN car showroom with admin workflow — **[🔗 live on Vercel](https://prestige-motor.vercel.app/)** | React · TypeScript · Express · MongoDB |
+| **[Oxford Pet Segmentation](https://github.com/Yehia-Alsaeed/oxford-pet-binary-segmentation)** | Benchmarked 3 segmentation architectures, best **0.93 mIoU** | PyTorch · timm |
+| **[Bank Churn Classification](https://github.com/Yehia-Alsaeed/bank-churn-imbalanced-classification)** | Imbalanced ML done right: SMOTE + ensembles, **F1 0.85 / ROC AUC 0.98** | scikit-learn · imbalanced-learn |
+| **[Prestige Motors Showroom](https://github.com/Yehia-Alsaeed/prestige-motors-showroom)** | Full-stack MERN car showroom with admin workflow, **[🔗 live on Vercel](https://prestige-motor.vercel.app/)** | React · TypeScript · Express · MongoDB |
 
-→ 6 highlights from my **[17 repositories](https://github.com/Yehia-Alsaeed?tab=repositories)**.
+6 highlights from my **[17 repositories](https://github.com/Yehia-Alsaeed?tab=repositories)**.
 
 ---
 
@@ -75,6 +75,6 @@ I'm an AI/ML engineer and Computer Science (Artificial Intelligence) graduate fr
 
 <div align="center">
 
-📫 **Let's connect** — [LinkedIn](https://www.linkedin.com/in/yehia-alsaeed) · [yehias3eed11@gmail.com](mailto:yehias3eed11@gmail.com)
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/yehia-alsaeed) · [yehias3eed11@gmail.com](mailto:yehias3eed11@gmail.com)
 
 </div>
