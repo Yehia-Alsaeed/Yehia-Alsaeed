@@ -18,7 +18,7 @@ I'm an AI/ML engineer and Computer Science (Artificial Intelligence) graduate fr
 - **Focus:** LLMs & GenAI (fine-tuning, agents), computer vision, and applied ML
 - **Recently:** fine-tuned Llama 3.x with QLoRA, built a CrewAI multi-agent system, shipped a deployed MERN app
 - **Open to** AI/ML Engineer and Software Engineer roles
-- **Availability:** graduated 2026 · available immediately · open to remote, hybrid (Cairo), or relocation
+- **Availability:** graduated 2026 · available immediately · open to on-site, hybrid, or remote
 - I like projects with real metrics, clean pipelines, and reproducible results
 
 ---
@@ -26,7 +26,7 @@ I'm an AI/ML engineer and Computer Science (Artificial Intelligence) graduate fr
 ## 💼 Experience
 
 - **Intern, Dell Technologies Summer Academy 2025** (Aug-Sep 2025 · 190 hrs): Co-built and pitched a four-module AI career platform to senior leaders; worked in Agile (daily standups, sprint planning, demos); job-shadowed Presales, Solution Architecture, and Project Management.
-- **Freelance Shopify Web Developer** (1 year): Designed, built, and launched end-to-end Shopify stores optimized for conversion and SEO; customized themes with Liquid, HTML, CSS, and JavaScript.
+- **Freelance Shopify Web Developer** (2025 - Present): Designed, built, and launched end-to-end Shopify stores optimized for conversion and SEO; customized themes with Liquid, HTML, CSS, and JavaScript.
 
 ---
 
