@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehia-alsaeed)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yehias3eed11@gmail.com)
 ![Location](https://img.shields.io/badge/Cairo,%20Egypt-34A853?style=flat-square&logo=googlemaps&logoColor=white)
+[![Resume](https://img.shields.io/badge/Resume-PDF-A31F34?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Yehia-Alsaeed/Yehia-Alsaeed/blob/main/Yehia_Alsaeed_CV.pdf)
 
 </div>
 
