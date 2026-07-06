@@ -25,7 +25,7 @@ I'm an AI/ML engineer and Computer Science (Artificial Intelligence) graduate fr
 
 ## 💼 Experience
 
-- **Intern, Dell Technologies Summer Academy 2025** (Aug - Sep · 190 hrs): Co-built and pitched a four-module AI career platform to senior leaders; worked in Agile (daily standups, sprint planning, demos); job-shadowed Presales, Solution Architecture, and Project Management.
+- **Intern, Dell Technologies Summer Academy 2025** (Aug - Sep · 160+ hours): Co-built and pitched a four-module AI career platform to senior leaders; worked in Agile (daily standups, sprint planning, demos); job-shadowed Presales, Solution Architecture, and Project Management.
 - **Freelance Shopify Web Developer** (2025 - Present): Designed, built, and launched complete Shopify stores optimized for conversion and SEO; customized themes with Liquid, HTML, CSS, and JavaScript.
 
 ---
