@@ -13,7 +13,7 @@
 
 ---
 
-I'm an AI/ML engineer and Computer Science (Artificial Intelligence) graduate from **The British University in Egypt (2026)**. I build practical AI systems **end-to-end**, from LLM fine-tuning and multi-agent systems to computer vision and full-stack products, and I care about turning research techniques into things that actually run and ship.
+I'm a Computer Science (Artificial Intelligence) graduate from The British University in Egypt (BUE), focused on building practical AI/ML systems end-to-end. My work spans LLM fine-tuning, multi-agent workflows, computer vision, and full-stack products, with a focus on turning research techniques into working software.
 
 - **Focus:** LLMs & GenAI (fine-tuning, agents), computer vision, and applied ML
 - **Recently:** fine-tuned Llama 3.x with QLoRA, built a CrewAI multi-agent system, shipped a deployed MERN app
