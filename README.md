@@ -34,12 +34,12 @@ I'm a Computer Science (Artificial Intelligence) graduate from The British Unive
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[SkillBridge AI Interviewer](https://github.com/Yehia-Alsaeed/skillbridge-ai-interviewer)** | Multimodal AI mock-interview coach (graduation project) that scores webcam interviews on 5 traits | React · FastAPI · OpenAI · PyTorch · MediaPipe |
-| **[Llama QLoRA Education QA](https://github.com/Yehia-Alsaeed/llama-qlora-education-qa)** | Fine-tuned Llama 3.x with QLoRA for educational QA, Exact Match **0.00 to 0.66** | PyTorch · Hugging Face · PEFT/LoRA |
-| **[AI Study Planner Agents](https://github.com/Yehia-Alsaeed/ai-study-planner-agents)** | Multi-agent LLM system that generates, critiques, and optimizes study schedules | CrewAI · GPT-4o-mini · Transformers |
-| **[Oxford Pet Segmentation](https://github.com/Yehia-Alsaeed/oxford-pet-binary-segmentation)** | Benchmarked 3 segmentation architectures, best **0.93 mIoU** | PyTorch · timm |
-| **[Bank Churn Classification](https://github.com/Yehia-Alsaeed/bank-churn-imbalanced-classification)** | Imbalanced ML done right: SMOTE + ensembles, **F1 0.85 / ROC AUC 0.98** | scikit-learn · imbalanced-learn |
-| **[Prestige Motors Showroom](https://github.com/Yehia-Alsaeed/prestige-motors-showroom)** | Full-stack MERN car showroom with admin workflow, **[🔗 live on Vercel](https://prestige-motor.vercel.app/)** | React · TypeScript · Express · MongoDB |
+| **[SkillBridge AI Interviewer](https://github.com/Yehia-Alsaeed/skillbridge-ai-interviewer)** | Full-stack multimodal AI mock-interview coach that parses CVs, runs webcam interviews, and scores responses across 5 traits | React · FastAPI · OpenAI · PyTorch · MediaPipe |
+| **[Llama QLoRA Education QA](https://github.com/Yehia-Alsaeed/llama-qlora-education-qa)** | QLoRA fine-tuning pipeline for Meta Llama educational QA, improving Exact Match from **0.00 to 0.66** | PyTorch · Hugging Face · PEFT/LoRA · BitsAndBytes |
+| **[AI Study Planner Agents](https://github.com/Yehia-Alsaeed/ai-study-planner-agents)** | Four-agent CrewAI system where specialized agents work together to generate, critique, and optimize personalized study schedules | CrewAI · GPT-4o-mini · sentence-transformers · Serper |
+| **[Oxford Pet Segmentation](https://github.com/Yehia-Alsaeed/oxford-pet-binary-segmentation)** | PyTorch segmentation benchmark across FCN, SegNet, and HRNet, with best **0.931 mIoU** | PyTorch · torchvision · timm · Jupyter |
+| **[Bank Churn Classification](https://github.com/Yehia-Alsaeed/bank-churn-imbalanced-classification)** | Leakage-aware imbalanced churn prediction pipeline using SMOTE, tuned models, and final **F1 0.854 / ROC AUC 0.984** | scikit-learn · imbalanced-learn · pandas · Seaborn |
+| **[Prestige Motors Showroom](https://github.com/Yehia-Alsaeed/prestige-motors-showroom)** | Deployed a full-stack MERN showroom app with reservations, used-car offers, and a role-based admin workflow, **[🔗 live on Vercel](https://prestige-motor.vercel.app/)** | React · TypeScript · Node/Express · MongoDB · Vercel |
 
 6 highlights from my **[17 repositories](https://github.com/Yehia-Alsaeed?tab=repositories)**.
 
