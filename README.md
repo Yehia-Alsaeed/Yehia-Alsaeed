@@ -15,9 +15,10 @@
 
 I'm a Computer Science (Artificial Intelligence) graduate from The British University in Egypt (BUE), focused on building practical AI/ML systems end-to-end. My work spans LLM fine-tuning, multi-agent workflows, computer vision, and full-stack products, with a focus on turning research techniques into working software.
 
-- **Focus:** LLMs & GenAI (fine-tuning, agents), computer vision, and applied ML
-- **Recently:** fine-tuned Llama 3.x with QLoRA, built a CrewAI multi-agent system, shipped a deployed MERN app
-- I like projects with real metrics, clean pipelines, and reproducible results
+- **Focus:** LLM fine-tuning, multi-agent systems, computer vision, applied ML, and full-stack AI products
+- **Recent work:** QLoRA fine-tuning, CrewAI agent workflows, PyTorch vision models, and a deployed MERN application
+- **Tools:** Python, PyTorch, Hugging Face, scikit-learn, FastAPI, React, Node.js, and MongoDB
+- **Project standards:** clear metrics, clean pipelines, reproducible experiments, and end-to-end implementation
 
 ---
 
