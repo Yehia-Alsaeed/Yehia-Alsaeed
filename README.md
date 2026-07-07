@@ -2,7 +2,7 @@
 
 # Hi, I'm Yehia Alsaeed
 
-### Computer Science (AI) Graduate from BUE
+### Computer Science (AI) Graduate from The British University in Egypt (BUE)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehia-alsaeed)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yehias3eed11@gmail.com)
