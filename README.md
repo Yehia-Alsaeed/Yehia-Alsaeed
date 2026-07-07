@@ -17,7 +17,6 @@ I'm a Computer Science (Artificial Intelligence) graduate from The British Unive
 
 - **Focus:** LLMs & GenAI (fine-tuning, agents), computer vision, and applied ML
 - **Recently:** fine-tuned Llama 3.x with QLoRA, built a CrewAI multi-agent system, shipped a deployed MERN app
-- **Open to** AI/ML Engineer and Software Engineer roles
 - **Availability:** graduated 2026 · available immediately · open to on-site, hybrid, or remote
 - I like projects with real metrics, clean pipelines, and reproducible results
 
