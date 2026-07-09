@@ -22,14 +22,6 @@ I'm a Computer Science (Artificial Intelligence) graduate from The British Unive
 
 ---
 
-## 💼 Experience
-
-- **Intern, Dell Technologies Summer Academy 2025** (Aug - Sep 2025 · 160+ hours): Completed training across ISM, AI, automation, data science, software engineering, project management, and leadership. Co-built and pitched a four-module AI career platform to senior leaders in an Agile team, prototyping a job-forecasting dashboard, short-form video hub, career assessment with roadmaps, and an AI interview assistant.
-
-- **Freelance Shopify Web Developer** (2025 - Present): Designed, built, and launched multiple Shopify stores for independent clients, optimizing each for conversion and SEO with custom Liquid, HTML, CSS, and JavaScript.
-
----
-
 ## 🚀 Featured Projects
 
 | Project | What it is | Stack |
