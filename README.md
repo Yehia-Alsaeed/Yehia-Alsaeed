@@ -15,13 +15,6 @@
 
 I'm a Computer Science (Artificial Intelligence) graduate from The British University in Egypt (BUE), focused on building practical AI/ML systems end-to-end. My work spans LLM fine-tuning, multi-agent workflows, computer vision, and full-stack products, with a focus on turning research techniques into working software.
 
-- **Focus:** LLM fine-tuning, multi-agent systems, computer vision, applied ML, and full-stack AI products
-- **Recent work:** QLoRA fine-tuning, CrewAI agent workflows, PyTorch vision models, and a deployed MERN application
-- **Tools:** Python, PyTorch, Hugging Face, scikit-learn, FastAPI, React, Node.js, and MongoDB
-- **Project standards:** clear metrics, clean pipelines, reproducible experiments, and end-to-end implementation
-
----
-
 ## 🚀 Featured Projects
 
 | Project | What it is | Stack |
@@ -33,7 +26,7 @@ I'm a Computer Science (Artificial Intelligence) graduate from The British Unive
 | **[Bank Churn Classification](https://github.com/Yehia-Alsaeed/bank-churn-imbalanced-classification)** | Leakage-aware imbalanced churn prediction pipeline using SMOTE, tuned models, and final **F1 0.854 / ROC AUC 0.984** | scikit-learn · imbalanced-learn · pandas · Seaborn |
 | **[Prestige Motors Showroom](https://github.com/Yehia-Alsaeed/prestige-motors-showroom)** | Deployed a full-stack MERN showroom app with reservations, used-car offers, and a role-based admin workflow, **[🔗 live on Vercel](https://prestige-motor.vercel.app/)** | React · TypeScript · Node/Express · MongoDB · Vercel |
 
-6 highlights from my **[17 repositories](https://github.com/Yehia-Alsaeed?tab=repositories)**.
+More projects are available in my **[repositories](https://github.com/Yehia-Alsaeed?tab=repositories)**.
 
 ---
 
@@ -64,7 +57,6 @@ I'm a Computer Science (Artificial Intelligence) graduate from The British Unive
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -78,10 +70,3 @@ I'm a Computer Science (Artificial Intelligence) graduate from The British Unive
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
----
-
-<div align="center">
-
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/yehia-alsaeed) · [yehias3eed11@gmail.com](mailto:yehias3eed11@gmail.com)
-
-</div>
